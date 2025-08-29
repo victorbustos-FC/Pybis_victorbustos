@@ -19,3 +19,6 @@ Se utilizo para almacenar los datos generados por nuestros codigos de python.
 
 # POWER BI
 Con Power BI obtuvimos un par de tabulados dinamicos muy interesantes que nos permite ver de manera tangible como se comporto nuestro codigo y las ventas generadas.
+
+# "proyecto.py"
+Contiene el codigo completo con todas las funciones y herramientas empleadas para llevar a cabo la resolucion de este proyecto.
